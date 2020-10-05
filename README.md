@@ -10,7 +10,7 @@
 
 Hi, I'm Raj Shah, currently a Full Stack Software Developer and DevOps Head at Flash-Tech, Western International Group.
 
-- 🔭 I’m currently working on a central Order and Inventory Management system across various E-Comemrce Channels called as OmnyComm
+- 🔭 I’m currently working on a central Order and Inventory Management system across various E-Comemrce Channels
 - 🌱 I’m currently learning AWS Services and Tools
 - 👯 I’m looking to collaborate on ideas around Competitive Programming 
 - 💬 Ask me about Django and Philosophy
