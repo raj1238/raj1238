@@ -8,10 +8,14 @@ I'm currently an associate Software Engineer at Tekion.
 - 💬 Ask me about Philosophy
 - 😄 Pronouns: Geek, Beast
 
-![Raj's github stats](https://github-readme-stats.raj1238.vercel.app/api?username=raj1238&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.raj1238.vercel.app/api/top-langs/?username=raj1238&layout=compact&theme=radical)
-
 <table width="100%"> 
+  <tr>
+  <td width="50%">
+      ![Raj's github stats](https://github-readme-stats.raj1238.vercel.app/api?username=raj1238&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+  </td>
+  <td width="50%">
+  ![Top Langs](https://github-readme-stats.raj1238.vercel.app/api/top-langs/?username=raj1238&layout=compact&theme=radical)
+  </td>
   <tr>
   <td width="50%">
       
