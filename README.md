@@ -2,7 +2,7 @@
 
 <table width="100%"> 
   <tr>
-  <td width="50%">
+  <td width="100%">
     
     I'm currently an associate Software Engineer at Tekion.
 
