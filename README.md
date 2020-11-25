@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm Raj Shah, currently a Full Stack Software Developer and DevOps Head at Tekion.
+Hi, I'm Raj Shah, currently an associate Software Engineer at Tekion.
 
 - 🔭 I’m currently working on an Automative Retail Cloud's service module.
 - 🌱 I’m currently learning AWS Services and SpringBoot Framework
