@@ -1,6 +1,6 @@
 ### Hey 👋🏻, I'm Raj! 
 
-Hi, I'm Raj Shah, currently an associate Software Engineer at Tekion.
+I'm currently an associate Software Engineer at Tekion.
 
 - 🔭 I’m currently working on an Automative Retail Cloud's service module.
 - 🌱 I’m currently learning AWS Services and SpringBoot Framework
