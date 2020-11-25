@@ -16,8 +16,8 @@ Hi, I'm Raj Shah, currently a Full Stack Software Developer and DevOps Head at F
 - 📫 How to reach [me](mailto:shahrajyogesh@gmail.com?Subject=Hello%20Raj) 👨‍💻.
 - 😄 Pronouns: Geek, Beast
 
-![Raj's github stats](https://github-readme-stats.vercel.app/api?username=raj1238&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raj1238&layout=compact&theme=radical)
+![Raj's github stats](github-readme-stats.raj1238.vercel.app/api?username=raj1238&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Langs](github-readme-stats.raj1238.vercel.app/api/top-langs/?username=raj1238&layout=compact&theme=radical)
 
 #### Languages and Tools (worked with all atleast once):
 
