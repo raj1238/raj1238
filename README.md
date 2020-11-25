@@ -12,7 +12,7 @@ I'm currently an associate Software Engineer at Tekion.
   <tr>
   <td width="50%">
   
- &nbsp; <br> ![Raj's github stats](https://github-readme-stats.raj1238.vercel.app/api?username=raj1238&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+ &nbsp; <br> [![Raj's github stats](https://github-readme-stats.raj1238.vercel.app/api?username=raj1238&show_icons=true&theme=radical&include_all_commits=true&count_private=true)]
   
   </td>
   <td width="50%">
