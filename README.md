@@ -20,7 +20,12 @@ I'm currently an associate Software Engineer at Tekion.
   <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
   <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
   <code><a href="https://www.mongodb.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
-    
+  <code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="https://www.java.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
+<code><a href="https://aws.amazon.com/elasticsearch-service/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></a></code>
+
 <table width="100%"> 
 
   <tr>
