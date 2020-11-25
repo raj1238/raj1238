@@ -12,14 +12,31 @@ Hi, I'm Raj Shah, currently a Full Stack Software Developer and DevOps Head at F
 - 🔭 I’m currently working on a central Order and Inventory Management system across various E-Comemrce Channels
 - 🌱 I’m currently learning AWS Services and Tools
 - 👯 I’m looking to collaborate on ideas around Competitive Programming 
-- 💬 Ask me about Django and Philosophy
-- 📫 How to reach [me](mailto:shahrajyogesh@gmail.com?Subject=Hello%20Raj) 👨‍💻.
+- 💬 Ask me about Philosophy
 - 😄 Pronouns: Geek, Beast
 
 ![Raj's github stats](https://github-readme-stats.raj1238.vercel.app/api?username=raj1238&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.raj1238.vercel.app/api/top-langs/?username=raj1238&layout=compact&theme=radical)
 
-[![Spotify](https://novatorem.raj1238.vercel.app//api/spotify)](https://open.spotify.com/user/raj1238)
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://novatorem.raj1238.vercel.app//api/spotify)](https://open.spotify.com/user/raj1238)
+
+  </td>
+  <td width="50%">
+
+<br><p align="center"><br><br>
+  [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/raj1238/)
+  [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/Mw1EOJKM)
+  [![Visits](https://komarev.com/ghpvc/?username=raj1238&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/raj1238)
+</p>
+  </td>
+  </table>
+
+
+
 
 
 #### Languages and Tools (worked with all atleast once):
