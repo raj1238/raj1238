@@ -31,6 +31,8 @@ Hi, I'm Raj Shah, currently a Full Stack Software Developer and DevOps Head at F
 <code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
 <code><a href="https://www.java.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
+<code><a href="https://www.mongodb.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+<code><a href="https://aws.amazon.com/elasticsearch-service/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></a></code>
 
 
 
