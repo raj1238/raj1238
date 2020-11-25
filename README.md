@@ -1,14 +1,18 @@
 ### Hey 👋🏻, I'm Raj! 
 
-I'm currently an associate Software Engineer at Tekion.
-
-- 🔭 I’m currently working on an Automative Retail Cloud's service module.
-- 🌱 I’m currently learning AWS Services and SpringBoot Framework
-- 👯 I’m looking to collaborate on ideas around Competitive Programming 
-- 💬 Ask me about Philosophy
-- 😄 Pronouns: Geek, Beast
-
 <table width="100%"> 
+  <tr>
+  <td width="50%">
+    
+    I'm currently an associate Software Engineer at Tekion.
+
+    - 🔭 I’m currently working on an Automative Retail Cloud's service module.
+    - 🌱 I’m currently learning AWS Services and SpringBoot Framework
+    - 👯 I’m looking to collaborate on ideas around Competitive Programming 
+    - 💬 Ask me about Philosophy
+    - 😄 Pronouns: Geek, Beast
+    
+  </td>
   <tr>
   <td width="50%">
   
