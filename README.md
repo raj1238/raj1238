@@ -19,7 +19,7 @@ Hi, I'm Raj Shah, currently a Full Stack Software Developer and DevOps Head at F
 ![Raj's github stats](https://github-readme-stats.raj1238.vercel.app/api?username=raj1238&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.raj1238.vercel.app/api/top-langs/?username=raj1238&layout=compact&theme=radical)
 
-[![Spotify](https://raj1238.vercel.app/api/spotify)](https://open.spotify.com/user/raj1238)
+[![Spotify](https://novatorem.raj1238.vercel.app//api/spotify)](https://open.spotify.com/user/raj1238)
 
 
 #### Languages and Tools (worked with all atleast once):
