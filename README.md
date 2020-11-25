@@ -1,9 +1,5 @@
 ### Hey 👋🏻, I'm Raj! 
 
-<a href="https://www.linkedin.com/in/raj1238/">
-  <img align="left" alt="Raj's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
 <br />
 <br />
 
@@ -27,7 +23,7 @@ Hi, I'm Raj Shah, currently a Full Stack Software Developer and DevOps Head at F
   </td>
   <td width="50%">
 
-<br><p align="center"><br><br>
+<br><p align="center"> You can find me Here!! <br><br>
   [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/raj1238/)
   [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/Mw1EOJKM)
   [![Visits](https://komarev.com/ghpvc/?username=raj1238&logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/raj1238)
