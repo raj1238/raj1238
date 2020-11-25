@@ -1,12 +1,11 @@
 ### Hey 👋🏻, I'm Raj! 
 
 <br />
-<br />
 
-Hi, I'm Raj Shah, currently a Full Stack Software Developer and DevOps Head at Flash-Tech, Western International Group.
+Hi, I'm Raj Shah, currently a Full Stack Software Developer and DevOps Head at Tekion.
 
-- 🔭 I’m currently working on a central Order and Inventory Management system across various E-Comemrce Channels
-- 🌱 I’m currently learning AWS Services and Tools
+- 🔭 I’m currently working on an Automative Retail Cloud's service module.
+- 🌱 I’m currently learning AWS Services and SpringBoot Framework
 - 👯 I’m looking to collaborate on ideas around Competitive Programming 
 - 💬 Ask me about Philosophy
 - 😄 Pronouns: Geek, Beast
