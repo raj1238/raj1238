@@ -1,19 +1,14 @@
 ### Hey 👋🏻, I'm Raj! 
-
-<table width="100%"> 
-  <tr>
-  <td width="50%">
     
-    I'm currently an associate Software Engineer at Tekion.
+I'm currently an associate Software Engineer at Tekion.
 
-    - 🔭 I’m currently working on an Automative Retail Cloud's service module.
-    - 🌱 I’m currently learning AWS Services and SpringBoot Framework
-    - 👯 I’m looking to collaborate on ideas around Competitive Programming 
-    - 💬 Ask me about Philosophy
-    - 😄 Pronouns: Geek, Beast
+- 🔭 I’m currently working on an Automative Retail Cloud's service module.
+- 🌱 I’m currently learning AWS Services and SpringBoot Framework
+- 👯 I’m looking to collaborate on ideas around Competitive Programming 
+- 💬 Ask me about Philosophy
+- 😄 Pronouns: Geek, Beast
     
-  </td>
-  <td width="50%">
+
     
 #### Languages and Tools (worked with all atleast once):
 
@@ -26,8 +21,8 @@
   <code><a href="https://www.mysql.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a></code>
   <code><a href="https://www.mongodb.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
     
-  </td>
-  
+<table width="100%"> 
+
   <tr>
   <td width="50%">
   
