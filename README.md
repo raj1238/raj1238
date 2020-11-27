@@ -25,19 +25,14 @@ I'm currently an associate Software Engineer at Tekion.
 <code><a href="https://www.java.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a></code>
 <code><a href="https://aws.amazon.com/elasticsearch-service/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></a></code>
 
-<table width="100%"> 
 
-  <tr>
-  <td width="50%">
   
-&nbsp; <br> ![Raj's github stats](https://github-readme-stats.raj1238.vercel.app/api?username=raj1238&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Raj's github stats](https://github-readme-stats.raj1238.vercel.app/api?username=raj1238&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
   
-  </td>
-  <td width="50%">
-    
-&nbsp; <br> ![Top Langs](https://github-readme-stats.raj1238.vercel.app/api/top-langs/?username=raj1238&layout=compact&theme=radical&langs_count=6)
+![Top Langs](https://github-readme-stats.raj1238.vercel.app/api/top-langs/?username=raj1238&layout=compact&theme=radical&langs_count=6)
   
-  </td>
+  <table width="100%"> 
+
   <tr>
   <td width="50%">
       
