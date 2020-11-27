@@ -35,7 +35,7 @@ I'm currently an associate Software Engineer at Tekion.
   </td>
   <td width="50%">
     
-&nbsp; <br> ![Top Langs](https://github-readme-stats.raj1238.vercel.app/api/top-langs/?username=raj1238&layout=compact&theme=radical)
+&nbsp; <br> ![Top Langs](https://github-readme-stats.raj1238.vercel.app/api/top-langs/?username=raj1238&layout=compact&theme=radical&langs_count=8)
   
   </td>
   <tr>
