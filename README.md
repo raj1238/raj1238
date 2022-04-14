@@ -1,8 +1,7 @@
 ### Hey 👋🏻, I'm Raj! 
     
-I'm currently an associate Software Engineer at Tekion.
+I'm currently a SDE-2, Backend at Silq.
 
-- 🔭 I’m currently working on an Automative Retail Cloud's service module.
 - 🌱 I’m currently learning AWS Services and SpringBoot Framework
 - 👯 I’m looking to collaborate on ideas around Competitive Programming 
 - 💬 Ask me about Philosophy
